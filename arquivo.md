@@ -19,15 +19,15 @@ esc +:q
 
 git config --global --list
 
-> **limpando as configurações anteriores:**
-> git config --global --unset user.email"meuemail@gmail.com"
-> git config --global --unset user.name"Meu Nome"
-> git config --global --unset user.nickname"meu-apelido"
+ **limpando as configurações anteriores:**
+ git config --global --unset user.email"meuemail@gmail.com"
+ git config --global --unset user.name"Meu Nome"
+ git config --global --unset user.nickname"meu-apelido"
 
-> **Configurando:**
-> git config --global --user.email"meuemail@gmail.com"
-> git config --global --user.name "Meu Nome"
-> git config --global --user.nickname"meu-apelido"
+ **Configurando:**
+ git config --global --user.email"meuemail@gmail.com"
+ git config --global --user.name "Meu Nome"
+ git config --global --user.nickname"meu-apelido"
 
 **Configurando a cores de interação:**
 git config --global color.ui.true
